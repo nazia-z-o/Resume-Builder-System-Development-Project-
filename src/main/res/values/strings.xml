@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NavJava</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+        <string name="country_prompt">Choose a Year</string>
+
+        <string-array name="passs">
+            <item>Passing Year</item>
+            <item>2018</item>
+            <item>2017</item>
+            <item>2016</item>
+            <item>2015</item>
+            <item>2014</item>
+            <item>2013</item>
+            <item>2012</item>
+        </string-array>
+
+    </resources>
+
